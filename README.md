@@ -38,7 +38,7 @@ Displayed the starship's name, model, the number of films it appears in, and an 
 
 ###  Search Functionality
 
-Implemented a search feature, enabling search for specific starships by name. The application dynamically filters the displayed starships based on the search query.
+Implemented a search feature, enabling search for specific starships by name. The application dynamically filters the displayed starships based on the search query and displaying text "No Results Found" if there is no relted search details.
 
 ### Determining Most Films
 
