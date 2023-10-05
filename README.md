@@ -1,6 +1,6 @@
  # Front-end Development Test
-* **First name:** `{Anusha}`
-* **Last name:** `{Jaddu}`
+* **Anusha Jaddu**
+* 
 ## Available Scripts
 
 In the project directory, you can run:
