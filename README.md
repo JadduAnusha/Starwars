@@ -14,7 +14,7 @@ Implemented a responsive web page that displays starship information, sorts the 
 
 # Implementation Steps:
 
-## Fetching Starship Data
+### Fetching Starship Data
 
 Created two essential components, Starship.jsx and StarshipList.jsx, dedicated to the retrieval and display of starship data.
 
