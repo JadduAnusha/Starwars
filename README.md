@@ -68,6 +68,17 @@ Added a personalized favicon, symbolizing the Star Wars project. This favicon ad
 
           npm start
 
+## Screenshots
+## Desktop
+![image](https://github.com/JadduAnusha/Starwars/assets/147032333/1208689c-19ef-47b6-bc3d-ea4c947b1fa8)
 
+
+## Tablets
+![image](https://github.com/JadduAnusha/Starwars/assets/147032333/43cff309-3ee8-4c8b-a372-b8b8d23e6cd8)
+
+
+## Mobile
+
+![image](https://github.com/JadduAnusha/Starwars/assets/147032333/7701b990-be96-4b30-8b0e-d7feab5af853)
 
 
