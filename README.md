@@ -19,11 +19,11 @@ Implemented a responsive web page that displays starship information, sorts the 
 Created two essential components, Starship.jsx and StarshipList.jsx, dedicated to the retrieval and display of starship data.
 
 ### The RESTfull API.
-Access starship information from SWAPI('https://swapi.dev/api/starships') and implement api.js with Axios to fetch data from API.
+Access starship information from SWAPI('https://swapi.dev/api/starships') and implemented api.js with Axios to fetch data from API.
 
 ### Styling with SASS (SCSS):
 
-Create responsive styles using Flex and media queries to adapt the layout for different screen sizes.
+Created responsive styles using Flex and media queries to adapt the layout for different screen sizes.
 
 ###  Data Manipulation:
 
@@ -38,7 +38,7 @@ Displayed the starship's name, model, the number of films it appears in, and an 
 
 ###  Search Functionality
 
-Implement a search feature, enabling search for specific starships by name. The application dynamically filters the displayed starships based on the search query.
+Implemented a search feature, enabling search for specific starships by name. The application dynamically filters the displayed starships based on the search query.
 
 ### Determining Most Films
 
@@ -48,12 +48,10 @@ Displaying the starship icon for each starship name.
 
 ###  Adding a Loader
 
-Enhance the user experience by incorporating a loader that is displayed prior to fetching data from the API. This provides users with visual feedback while the application loads content.
+To enhance the user experience added a loader that is displayed prior to fetching data from the API. 
 
 ### Custom Fav Icon:
-Added a personalized favicon, symbolizing the Star Wars project. This favicon adds a distinctive element to the user's browsing experience.
-
-
+Added a personalized favicon with text, symbolizing the Star Wars project.
 
 ## INSTALLATION
 
