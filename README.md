@@ -1,6 +1,5 @@
  # Front-end Development Test
-* **Anusha Jaddu**
-* 
+* Anusha Jaddu*
 ## Available Scripts
 
 In the project directory, you can run:
